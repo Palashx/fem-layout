@@ -40,12 +40,12 @@ nav ul {
 http://stackoverflow.com/questions/13104818/simple-2-column-navigation-with-css-and-a-single-list */
 nav li:nth-child(even) {
   width: 50%;
-  float: right;
+  /* float: right; */
   padding: 0.5em;
 }
 nav li:nth-child(odd) {
   width: 50%;
-  float: left;
+  /* float: left; */
     padding: 0.5em;
 }
 nav a {
